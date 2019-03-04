@@ -1,11 +1,10 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Nuestra trabajo consiste en un anulador de sonido, la frecuencia del sonido captada por el anulador podrá verse en la pantalla del ordenador conectado con el arduino.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
-
+Ignacio Sánchez Aparicio- ignaciosaparicio
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+El objetivo principal del trabajo es que el anulador funcione y conseguir una correcta comunicación del arduino con la computadora
